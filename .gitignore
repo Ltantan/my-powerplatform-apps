@@ -1,0 +1,13 @@
+# 認証情報・シークレット
+credentials.json
+token.json
+.env
+*.key
+*.pem
+
+# macOS
+.DS_Store
+
+# 一時ファイル
+*.tmp
+*.log
