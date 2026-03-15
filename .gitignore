@@ -8,6 +8,9 @@ token.json
 # macOS
 .DS_Store
 
+# Claude Code 内部ルール（公開不要）
+CLAUDE.md
+
 # 一時ファイル
 *.tmp
 *.log
